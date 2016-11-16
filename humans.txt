@@ -1,0 +1,9 @@
+/* the humans responsible & colophon */
+/* humanstxt.org */
+
+
+/* TEAM */
+  Initiator: Kei Kreutler
+  Site: keikreutler.cc
+  Twitter: @keikreutler
+  Location: Nomadic
